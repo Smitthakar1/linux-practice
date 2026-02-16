@@ -38,3 +38,9 @@ I am building Linux fundamentals for DevOps & Cloud Security roles.
 
 ## Goal
 Master Linux in 30 days.
+## Day 1
+- File & directory management
+- nano
+- cat
+- chmod (644, 700, 777)
+- Permission math (rwx = 7, rw- = 6)
